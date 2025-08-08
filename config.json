@@ -1,0 +1,15 @@
+{
+  "video_file": "meeting.mp4",
+  "audio_file": "meeting.wav",
+  "chunks_dir": "chunks",
+  "text_output": "transcription.txt",
+  "srt_output": "transcription.srt",
+  "language": "ja",
+  "huggingface_token": "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",
+  "whisper_model_size": "large",
+  "sample_rate": 16000,
+  "channels": 1,
+  "min_segment_duration": 0.5,
+  "log_level": "INFO",
+  "log_file": "whisper_diarize.log"
+}
