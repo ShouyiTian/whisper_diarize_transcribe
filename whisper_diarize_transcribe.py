@@ -22,7 +22,7 @@ class Config:
     text_output: str = "transcription.txt"
     srt_output: str = "transcription.srt"
     language: str = "ja"
-    huggingface_token: str = "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"
+    huggingface_token: str = "<huggingfaceid>"
     whisper_model_size: str = "large"
     use_gpu: bool = torch.cuda.is_available()
     sample_rate: int = 16000
