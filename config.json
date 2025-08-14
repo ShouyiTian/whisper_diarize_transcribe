@@ -5,7 +5,7 @@
   "text_output": "transcription.txt",
   "srt_output": "transcription.srt",
   "language": "ja",
-  "huggingface_token": "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",
+  "huggingface_token": "<huggingface_ID>",
   "whisper_model_size": "large",
   "sample_rate": 16000,
   "channels": 1,
