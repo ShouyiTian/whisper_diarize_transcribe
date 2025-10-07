@@ -148,10 +148,3 @@ SPEAKER_01: はい、よろしくお願いします。
   FFmpeg    pyannote    pydub      Whisper    文本/SRT    统计报告
 ```
 
-## 许可证
-
-本项目基于 MIT 许可证开源。
-
-## 贡献
-
-欢迎提交 Issue 和 Pull Request！
